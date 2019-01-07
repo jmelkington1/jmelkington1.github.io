@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inventors
+title: Building communities on cooperation and mistrust
 ---
 
 A key theme in our society is how to build communities that can distrust each other but still cooperate. This has never been possible and currently still doesn’t exist. To achieve this will require new inventions and resulting social and economic change amplifying each other. Conflict has centered on trust or specifically the lack thereof. The compounded economic drag of mistrust is too hard to measure but probably unprecedented. The social and cultural destruction is immeasurable.
