@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inventors
-permalink: /writings/
+permalink: /_posts
 ---
 
 Inventors are consistently at the forefront of business but historically have trouble accruing value. Unique business models often use a new technology to unlock value that was previously constrained. Unfortunately, the business models usually constrain themselves by not being open to new inventions and the subsequent search for an alternative model. No wonder many of important businesses over time end up fading away after a few decades. However, as long as these businesses make the transition from creativity to efficiency then new models can emerge to fill the emerging niches. In the complex dynamics of business, inventors always have a place at the upper echelons of society and in particular, the potential to create a business model with various structural advantages that are near-impossible to replicate. As a result, inventions have a important role to play in not only creating businesses but keeping them relevant. Taking an invention to create a business is a complex task but history would show it is incredibly worthwhile and lucrative.
