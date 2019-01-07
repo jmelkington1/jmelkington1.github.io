@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inventors
+title: Business models
 ---
 
 Over the last few centuries, business models have undergone an incredible transformation:
