@@ -36,7 +36,7 @@ An easy way to have the chance to create a unique business model is to study the
 14. Subscription: Salesforce — use is paid for on a recurring basis
 15. Direct sales: Dell — bring a product conventionally sold through intermediaries directly to the customer
 16. Fractionalization: NetJets — sell fractions of a good rather than the whole
-17 .Razor blade: HP — offer high-margin product below cost to increase volume of sales for low-margin product
+17. Razor blade: HP — offer high-margin product below cost to increase volume of sales for low-margin product
 18. Reverse razor blades: Amazon Kindle — offer low-margin product below cost to increase volume of sales for high-margin product
 19. Low cost carrier: Ryanair — most traditional services are not provided in the far resulting in lower costs and fewer comforts
 20. Royalties: Qualcomm — sells licenses on their chips without manufacturing them
