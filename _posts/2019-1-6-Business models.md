@@ -58,6 +58,7 @@ Cooperative: Cheeseboard — creating a business owned by the employees ofte
 Platform/Tools: Red Hat — create a set of tools to maintain another product
 Loyalty: American Express — provide rewards to the user-base in order to lower customer churn
 Multi-level marketing: Amway — independent sellers distribute products to customers and also train new sellers
+
 Old-fashioned ideas like having profits continue to matter. All companies have a choice on what business model they want to use — they can create one, transform an existing model, diversity, or just acquire one outright. Like biology, it usually is not as discrete. However, this process can create durable advantages that can last decades. Taking feedback from stakeholders can help create new sets of transactions that change the long-term viability of a business. Usually these new development are enabled by an invention that unlocks previous constraints. It is usually a death knell when a business does not take this feedback and doubles down on a stale approach.
 
 Special thanks to Shinya Iguchi as well as others kind enough to review and provide feedback on this piece.
