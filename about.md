@@ -6,8 +6,6 @@ permalink: /about/
 
 Axial partners with great inventors.
 
-### More Information
-
 Over the last few centuries, business models have undergone an incredible transformation:
 
 1. Medieval — guilds (i.e. smiths)
