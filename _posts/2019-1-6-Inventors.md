@@ -34,6 +34,7 @@ History’s great inventors often lacked formal training and created their inven
 Evolution
 
 Some inventions just evolve — both gradual and discrete — to finally emerge into a final form. There really is no single inventor. Mark Blyth from Brown describes it best by describing the iPhone as a great invention but one dependent on government-funded research for the processor, chip, and screen.
+
 Breakthrough
 
 Inventions are usually equated to breakthroughs. There are many types of inventions, but a breakthrough advances human knowledge providing an opportunity for commercialization. The discovery of the structure of DNA enabled sequencing and cloning to emerge. Great companies like Illumina, IDT, Biogen, and Genentech emerged from this work. The pH meter was a breakthrough in measurement and was the centerpiece for Beckman Instruments. Arnold Beckman is a benchmark to be studied where he actually helped fund Fairchild Semiconductor setting the conditions for Silicon Valley to emerge. Beckman used the pH meter to create a franchise where the company now is a leader in centralized molecular diagnostics. The radio emerged from breakthroughs around magnetism during the 19th century from Faraday, Maxwell, and Hertz.
