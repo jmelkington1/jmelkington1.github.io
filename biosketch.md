@@ -4,15 +4,12 @@ title: Biosketch
 permalink: /biosketch/
 ---
 
-Axial partners with great inventors.
+Went to college at [https://molbio.mgh.harvard.edu/individual/1821]Harvard to study molecular biology and graduate training at UC Berkeley in [https://www.linkedin.com/in/joshua-elkington-b6b37b141/]biochemistry.
 
-Over the last few centuries, business models have undergone an incredible transformation:
+Partner and investor to companies such as GenEdit, Culture Biosciences, Serotiny, Unnatural Products, Aether, Coral Genomics, and EnClear Therapies. Founder of Axial, an investment business in early-stage companies led by great inventors and building unique business models in life sciences.
 
-1. Medieval — guilds (i.e. smiths)
-2. 19th century — factory system (i.e. textile mills)
-3. 20th century — production line systems (i.e. Ford)
-4. 21st century — network systems (i.e. Google)
+Advisory work for:
 
-The evolution has been enabled by great inventors allowing new ways to accommodate gaps in the exchange of value. A business model consists of many components not limited to products, design, distribution, experience, partnerships, resources, value proposition, activities, cost structure, revenue generation, customer identification, and relationships. With all these moving components it is incredibly difficult to define a business model. Throughout history, technology changes what business models are possible. With the invention of the Internet and related tools, business models centered around economies of scale, global brand, lock-in, and network effects have become possible where they were incredibly difficult to attain centuries ago. Now new modalities and tools are emerging that will allow other unique business models to be created. Driven by inventors, the companies that implement these business models will have an outsized impact on society.
 
-[info@axialsprawl.com](mailto:info@axialsprawl.com)
+
+[elkington@axialsprawl.com](mailto:elkington@axialsprawl.com)
