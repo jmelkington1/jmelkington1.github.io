@@ -11,7 +11,6 @@ Partner and investor to companies such as [GenEdit](http://www.genedit.com), [Cu
 Advisory work for:
 
 * [DeepMind](https://deepmind.com)
-* [Passport Capital](https://www.passportcapital.com)
 * [Wing](https://wing.vc)
 
 [elkington@axialsprawl.com](mailto:elkington@axialsprawl.com)
