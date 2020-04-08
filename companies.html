@@ -5,20 +5,23 @@ permalink: /companies/
 ---
 
 <style>
-
-#content {
-    margin-right: 265px;
+.container {
+   height: auto;
+   overflow: hidden;
 }
 
-#right {
+.right {
+    width: 180px;
     float: right;
-    width: 225px;
-    margin-left: -225px;
+    background: #aafed6;
 }
 
-#right, #content {
-    height: 1%; /* fixed for IE, although doesn't seem to work */
-    padding: 20px;
+.left {
+    float: none; /* not needed, just for clarification */
+    background: #e8f6fe;
+    /* the next props are meant to keep this block independent from the other floated one */
+    width: auto;
+    overflow: hidden;
 }
 </style>
 
