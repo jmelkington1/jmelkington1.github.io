@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Axial partners with great inventors.
-
-Over the last few centuries, business models have undergone an incredible transformation:
-
-1. Medieval — guilds (i.e. smiths)
-2. 19th century — factory system (i.e. textile mills)
-3. 20th century — production line systems (i.e. Ford)
-4. 21st century — network systems (i.e. Google)
-
-The evolution has been enabled by great inventors allowing new ways to accommodate gaps in the exchange of value. A business model consists of many components not limited to products, design, distribution, experience, partnerships, resources, value proposition, activities, cost structure, revenue generation, customer identification, and relationships. With all these moving components it is incredibly difficult to define a business model. Throughout history, technology changes what business models are possible. With the invention of the Internet and related tools, business models centered around economies of scale, global brand, lock-in, and network effects have become possible where they were incredibly difficult to attain centuries ago. Now new modalities and tools are emerging that will allow other unique business models to be created. Driven by inventors, the companies that implement these business models will have an outsized impact on society.
-
-[info@axialvc.com](mailto:info@axialvc.com)
+Axial partners with great founders and inventors. We invest in early-stage life sciences companies often when they are no more than an idea. We are fanatical about helping the rare inventor who is compelled to build their own enduring business. If you or someone you know has a great idea or company in life sciences, Axial would be excited to get to know you and possibly invest in your vision and company . We are excited to be in business with you - email us at  [info@axialvc.com](mailto:info@axialvc.com)
